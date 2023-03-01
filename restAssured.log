@@ -1,0 +1,36 @@
+HTTP/1.1 200 OK
+Date: Mon, 27 Feb 2023 14:58:59 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 46
+Connection: keep-alive
+x-srv-trace: v=1;t=f0dbd4ee290cdbc7
+x-srv-span: v=1;s=e9267ee58046444a
+Access-Control-Allow-Origin: *
+X-RateLimit-Limit: 120
+X-RateLimit-Remaining: 118
+X-RateLimit-Reset: 1677509978
+ETag: W/"2e-jCcxk/IyHnICEAFqhelYA1nBtg8"
+Vary: Accept-Encoding
+
+{
+    "key1": "value1",
+    "key2": "value2"
+}
+HTTP/1.1 200 OK
+Date: Mon, 27 Feb 2023 14:58:59 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 46
+Connection: keep-alive
+x-srv-trace: v=1;t=f0dbd4ee290cdbc7
+x-srv-span: v=1;s=e9267ee58046444a
+Access-Control-Allow-Origin: *
+X-RateLimit-Limit: 120
+X-RateLimit-Remaining: 118
+X-RateLimit-Reset: 1677509978
+ETag: W/"2e-jCcxk/IyHnICEAFqhelYA1nBtg8"
+Vary: Accept-Encoding
+
+{
+    "key1": "value1",
+    "key2": "value2"
+}
